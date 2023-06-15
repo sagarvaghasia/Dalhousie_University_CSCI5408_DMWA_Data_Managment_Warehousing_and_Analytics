@@ -1,0 +1,1 @@
+[{"Type":"movie","Year":"1940","imdbID":"tt0153610","Poster":"N/A","Title":"Vy neznáte Alberta?"},{"Type":"movie","Year":"1984","imdbID":"tt0225047","Poster":"N/A","Title":"Alberta Bound"},{"Type":"movie","Year":"1980","imdbID":"tt0227701","Poster":"N/A","Title":"Two Dreams of a Nation: The Fortin Family of Quebec and Alberta"}]

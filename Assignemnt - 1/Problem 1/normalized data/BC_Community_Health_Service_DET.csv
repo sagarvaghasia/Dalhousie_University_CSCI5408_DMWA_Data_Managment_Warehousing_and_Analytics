@@ -1,0 +1,219 @@
+FID,CHSA_CD,CHSA_Name,CHSA_Title,CHSA_Pop16,CHSA_UR_Cl,CHSA_Pop16,LHA_CD
+1,1110,Fernie,1110 Fernie,15531,5 Rural Hub,15531,111
+2,1120,Cranbrook,1120 Cranbrook,26248,4 Small Urban,26248,112
+3,1130,Kimberley,1130 Kimberley,9178,6 Rural,9178,113
+4,1140,Windermere,1140 Windermere,9487,6 Rural,9487,114
+5,1150,Creston,1150 Creston,12634,6 Rural,12634,115
+6,1160,Golden,1160 Golden,6851,6 Rural,6851,116
+7,1210,Kootenay Lake,1210 Kootenay Lake,3209,6 Rural,3209,121
+8,1220,Nelson,1220 Nelson,25523,6 Rural,25523,122
+9,1230,Castlegar,1230 Castlegar,13710,5 Rural Hub,13710,123
+10,1240,Arrow Lakes,1240 Arrow Lakes,4501,6 Rural,4501,124
+11,1250,Trail,1250 Trail,19367,4 Small Urban,19367,125
+12,1260,Grand Forks,1260 Grand Forks,8611,6 Rural,8611,126
+13,1270,Kettle Valley,1270 Kettle Valley,3469,6 Rural,3469,127
+14,1310,Southern Okanagan,1310 Southern Okanagan,19231,5 Rural Hub,19231,131
+15,1320,Penticton,1320 Penticton,41799,3 Medium Urban,41799,132
+16,1330,Keremeos,1330 Keremeos,5101,6 Rural,5101,133
+17,1340,Princeton,1340 Princeton,4781,5 Rural Hub,4781,134
+18,1350,Armstrong/Spallumcheen,1350 Armstrong/Spallumcheen,10220,5 Rural Hub,10220,135
+19,1361,Vernon Centre/Coldstream,1361 Vernon Centre/Coldstream,53266,3 Medium Urban,53266,136
+20,1362,North Okanagan/Lumby,1362 North Okanagan/Lumby,13583,6 Rural,13583,136
+21,1371,Central Okanagan Rural,1371 Central Okanagan Rural,8720,5 Rural Hub,8720,137
+22,1372,West Kelowna,1372 West Kelowna,41482,2 Large Urban,41482,137
+23,1373,Lake Country,1373 Lake Country,12922,6 Rural,12922,137
+24,1374,Glenmore,1374 Glenmore,33401,2 Large Urban,33401,137
+25,1375,Downtown Kelowna,1375 Downtown Kelowna,38661,2 Large Urban,38661,137
+26,1376,Rutland,1376 Rutland,34796,2 Large Urban,34796,137
+27,1377,Okanagan Mission,1377 Okanagan Mission,24900,2 Large Urban,24900,137
+28,1380,Summerland,1380 Summerland,12110,5 Rural Hub,12110,138
+29,1390,Enderby,1390 Enderby,7285,6 Rural,7285,139
+30,1410,Revelstoke,1410 Revelstoke,8085,5 Rural Hub,8085,141
+31,1420,Salmon Arm,1420 Salmon Arm,33648,4 Small Urban,33648,142
+32,1431,Kamloops Centre North,1431 Kamloops Centre North,44714,3 Medium Urban,44714,143
+33,1432,Kamloops Centre South,1432 Kamloops Centre South,48587,3 Medium Urban,48587,143
+34,1433,Lower Thompson,1433 Lower Thompson,19986,6 Rural,19986,143
+35,1440,100 Mile House,1440 100 Mile House,14112,6 Rural,14112,144
+36,1450,North Thompson,1450 North Thompson,4050,6 Rural,4050,145
+37,1462,Williams Lake/East Cariboo,1462 Williams Lake/East Cariboo,22165,6 Rural,22165,146
+38,1470,Lillooet,1470 Lillooet,4012,6 Rural,4012,147
+39,1480,South Cariboo,1480 South Cariboo,6548,6 Rural,6548,148
+40,1490,Merritt,1490 Merritt,10855,6 Rural,10855,149
+41,2110,Hope,2110 Hope,8129,5 Rural Hub,8129,211
+42,2121,South Chilliwack,2121 South Chilliwack,51241,3 Medium Urban,51241,212
+43,2122,North Chilliwack,2122 North Chilliwack,41936,3 Medium Urban,41936,212
+44,2131,Central Abbotsford,2131 Central Abbotsford,22754,2 Large Urban,22754,213
+45,2132,East Abbotsford,2132 East Abbotsford,35584,2 Large Urban,35584,213
+46,2133,West Abbotsford,2133 West Abbotsford,58511,2 Large Urban,58511,213
+47,2134,Abbotsford Rural,2134 Abbotsford Rural,24836,6 Rural,24836,213
+48,2142,North Mission,2142 North Mission,16854,6 Rural,16854,214
+49,2150,Agassiz/Harrison,2150 Agassiz/Harrison,9696,5 Rural Hub,9696,215
+50,2210,New Westminster,2210 New Westminster,70996,1 Metropolitan,70996,221
+51,2221,Burnaby Northwest,2221 Burnaby Northwest,47161,1 Metropolitan,47161,222
+52,2222,Burnaby Northeast,2222 Burnaby Northeast,45434,1 Metropolitan,45434,222
+53,2223,Burnaby Southwest,2223 Burnaby Southwest,81414,1 Metropolitan,81414,222
+54,2224,Burnaby Southeast,2224 Burnaby Southeast,58746,1 Metropolitan,58746,222
+55,2231,Haney,2231 Haney,30824,1 Metropolitan,30824,223
+56,2232,Pitt Meadows,2232 Pitt Meadows,18835,1 Metropolitan,18835,223
+57,2233,Maple Ridge Rural,2233 Maple Ridge Rural,51442,1 Metropolitan,51442,223
+58,2241,North Coquitlam,2241 North Coquitlam,40842,1 Metropolitan,40842,224
+59,2242,Southwest Coquitlam,2242 Southwest Coquitlam,70406,1 Metropolitan,70406,224
+60,2244,Port Coquitlam,2244 Port Coquitlam,58612,1 Metropolitan,58612,224
+61,2245,Port Moody/Anmore/Belcarra,2245 Port Moody/Anmore/Belcarra,36404,1 Metropolitan,36404,224
+62,2311,City of Langley,2311 City of Langley,25888,1 Metropolitan,25888,231
+63,2313,Willoughby,2313 Willoughby,31567,1 Metropolitan,31567,231
+64,2314,Brookswood/Murrayville,2314 Brookswood/Murrayville,22090,1 Metropolitan,22090,231
+65,2315,Aldergrove/Otter,2315 Aldergrove/Otter,13204,4 Small Urban,13204,231
+66,2316,North Langley Township,2316 North Langley Township,12653,6 Rural,12653,231
+67,2317,South Langley Township,2317 South Langley Township,8789,6 Rural,8789,231
+68,2321,North Delta,2321 North Delta,56017,1 Metropolitan,56017,232
+69,2323,Tsawwassen,2323 Tsawwassen,22225,4 Small Urban,22225,232
+70,2332,North Surrey,2332 North Surrey,51161,1 Metropolitan,51161,233
+71,2333,Cloverdale,2333 Cloverdale,69963,1 Metropolitan,69963,233
+72,2334,Panorama,2334 Panorama,45391,1 Metropolitan,45391,233
+73,2335,East Newton,2335 East Newton,62748,1 Metropolitan,62748,233
+74,2336,Fleetwood,2336 Fleetwood,58701,1 Metropolitan,58701,233
+75,2337,Guildford,2337 Guildford,60538,1 Metropolitan,60538,233
+76,2338,West Newton,2338 West Newton,41463,1 Metropolitan,41463,233
+77,2341,South Surrey,2341 South Surrey,74816,3 Medium Urban,74816,234
+78,2342,White Rock,2342 White Rock,19952,3 Medium Urban,19952,234
+79,3111,Richmond City Centre,3111 Richmond City Centre,54587,1 Metropolitan,54587,311
+80,3112,Blundell,3112 Blundell,17729,1 Metropolitan,17729,311
+81,3113,Broadmoor,3113 Broadmoor,23478,1 Metropolitan,23478,311
+82,3115,Steveston,3115 Steveston,24774,1 Metropolitan,24774,311
+83,3116,East and West Cambie/Bridgeport,3116 East and West Cambie/Bridgeport,24621,1 Metropolitan,24621,311
+84,3211,Downtown Vancouver,3211 Downtown Vancouver,41934,1 Metropolitan,41934,321
+85,3212,West End,3212 West End,47203,1 Metropolitan,47203,321
+86,3213,Fairview,3213 Fairview,32904,1 Metropolitan,32904,321
+87,3221,Downtown Eastside,3221 Downtown Eastside,19960,1 Metropolitan,19960,322
+88,3222,Northeast False Creek,3222 Northeast False Creek,12392,1 Metropolitan,12392,322
+89,3223,Grandview-Woodland,3223 Grandview-Woodland,29180,1 Metropolitan,29180,322
+90,3231,Cedar Cottage,3231 Cedar Cottage,18027,1 Metropolitan,18027,323
+91,3232,Hastings-Sunrise,3232 Hastings-Sunrise,34575,1 Metropolitan,34575,323
+92,3233,Renfrew-Collingwood,3233 Renfrew-Collingwood,51292,1 Metropolitan,51292,323
+93,3241,Shaughnessy/Arbutus Ridge/Kerrisdale,3241 Shaughnessy/Arbutus Ridge/Kerrisdale,37993,1 Metropolitan,37993,324
+94,3242,West Point Grey/Dunbar-Southlands,3242 West Point Grey/Dunbar-Southlands,34483,1 Metropolitan,34483,324
+95,3243,University of British Columbia,3243 University of British Columbia,15890,1 Metropolitan,15890,324
+96,3244,Kitsilano,3244 Kitsilano,42812,1 Metropolitan,42812,324
+97,3251,Kensington,3251 Kensington,31755,1 Metropolitan,31755,325
+98,3252,Mount Pleasant,3252 Mount Pleasant,32807,1 Metropolitan,32807,325
+99,3253,South Cambie/Riley Park,3253 South Cambie/Riley Park,31246,1 Metropolitan,31246,325
+100,3261,Killarney,3261 Killarney,29561,1 Metropolitan,29561,326
+101,3262,Oakridge/Marpole,3262 Oakridge/Marpole,37453,1 Metropolitan,37453,326
+102,3263,Sunset,3263 Sunset,36496,1 Metropolitan,36496,326
+103,3264,Victoria-Fraserview,3264 Victoria-Fraserview,31065,1 Metropolitan,31065,326
+104,3311,North Vancouver City - East,3311 North Vancouver City - East,19230,1 Metropolitan,19230,331
+105,3312,North Vancouver City - West,3312 North Vancouver City - West,34244,1 Metropolitan,34244,331
+106,3313,North Vancouver DM - Central,3313 North Vancouver DM - Central,29808,1 Metropolitan,29808,331
+107,3314,North Vancouver DM - East,3314 North Vancouver DM - East,29271,1 Metropolitan,29271,331
+108,3315,North Vancouver DM - West,3315 North Vancouver DM - West,28839,1 Metropolitan,28839,331
+109,3321,West Vancouver - Lower,3321 West Vancouver - Lower,19412,1 Metropolitan,19412,332
+110,3323,Bowen Island/Lions Bay,3323 Bowen Island/Lions Bay,5086,6 Rural,5086,332
+111,3331,Gibsons,3331 Gibsons,8269,5 Rural Hub,8269,333
+112,3332,Sechelt,3332 Sechelt,10862,5 Rural Hub,10862,333
+113,3341,Powell River City,3341 Powell River City,13157,4 Small Urban,13157,334
+114,3342,qathet Rural,3342 qathet Rural,6514,6 Rural,6514,334
+115,3351,Squamish,3351 Squamish,19893,4 Small Urban,19893,335
+116,3352,Whistler,3352 Whistler,11854,5 Rural Hub,11854,335
+117,3353,Howe Sound Rural,3353 Howe Sound Rural,6906,6 Rural,6906,335
+118,3360,Bella Coola Valley,3360 Bella Coola Valley,2678,7 Remote,2678,336
+119,3370,Central Coast,3370 Central Coast,1514,7 Remote,1514,337
+120,4111,Downtown Victoria/Vic West,4111 Downtown Victoria/Vic West,31290,2 Large Urban,31290,411
+121,4119,Esquimalt,4119 Esquimalt,19497,2 Large Urban,19497,411
+122,4115,Gordon Head/Shelbourne,4115 Gordon Head/Shelbourne,38257,2 Large Urban,38257,411
+123,4112,James Bay/Fairfield,4112 James Bay/Fairfield,32057,2 Large Urban,32057,411
+124,4114,Oak Bay,4114 Oak Bay,18094,2 Large Urban,18094,411
+125,4113,Oaklands/Fernwood,4113 Oaklands/Fernwood,22445,2 Large Urban,22445,411
+126,4116,Quadra/Swan Lake,4116 Quadra/Swan Lake,24167,2 Large Urban,24167,411
+127,4117,Interurban/Tillicum,4117 Interurban/Tillicum,29704,2 Large Urban,29704,411
+128,4118,View Royal,4118 View Royal,10408,2 Large Urban,10408,411
+129,4121,Colwood,4121 Colwood,16859,2 Large Urban,16859,412
+130,4122,Metchosin,4122 Metchosin,4837,6 Rural,4837,412
+131,4123,Langford/Highlands,4123 Langford/Highlands,37985,2 Large Urban,37985,412
+132,4124,Sooke,4124 Sooke,14894,5 Rural Hub,14894,412
+133,4125,Juan de Fuca Coast,4125 Juan de Fuca Coast,2885,6 Rural,2885,412
+134,4131,Royal Oak/Cordova Bay/Prospect,4131 Royal Oak/Cordova Bay/Prospect,22020,2 Large Urban,22020,413
+135,4132,Central Saanich,4132 Central Saanich,19325,2 Large Urban,19325,413
+136,4133,North Saanich,4133 North Saanich,11675,2 Large Urban,11675,413
+137,4134,Sidney,4134 Sidney,11672,2 Large Urban,11672,413
+138,4141,Salt Spring Island,4141 Salt Spring Island,10557,6 Rural,10557,414
+139,4142,Pender/Galiano/Saturna/Mayne,4142 Pender/Galiano/Saturna/Mayne,4732,6 Rural,4732,414
+140,4211,South Cowichan,4211 South Cowichan,17780,5 Rural Hub,17780,421
+141,4212,Central Cowichan,4212 Central Cowichan,40598,4 Small Urban,40598,421
+142,4220,Cowichan Valley West,4220 Cowichan Valley West,6240,6 Rural,6240,422
+143,4233,Chemainus,4233 Chemainus,6037,5 Rural Hub,6037,423
+144,4234,Penelakut and Thetis Islands,4234 Penelakut and Thetis Islands,851,6 Rural,851,423
+145,4241,Downtown Nanaimo,4241 Downtown Nanaimo,20117,3 Medium Urban,20117,424
+146,4242,Departure Bay,4242 Departure Bay,25680,3 Medium Urban,25680,424
+147,4243,Nanaimo North/Lantzville,4243 Nanaimo North/Lantzville,30045,3 Medium Urban,30045,424
+148,4244,Nanaimo South,4244 Nanaimo South,14529,3 Medium Urban,14529,424
+149,4245,Nanaimo West/Rural,4245 Nanaimo West/Rural,7502,6 Rural,7502,424
+150,4246,Cedar/Wellington,4246 Cedar/Wellington,7058,6 Rural,7058,424
+151,4247,Gabriola Island,4247 Gabriola Island,4033,6 Rural,4033,424
+152,4251,Parksville,4251 Parksville,13260,4 Small Urban,13260,425
+153,4252,Qualicum Beach,4252 Qualicum Beach,8943,4 Small Urban,8943,425
+154,4253,Oceanside Rural,4253 Oceanside Rural,24930,6 Rural,24930,425
+155,4261,Port Alberni,4261 Port Alberni,21118,4 Small Urban,21118,426
+156,4262,Alberni Valley/Bamfield,4262 Alberni Valley/Bamfield,4329,6 Rural,4329,426
+157,4263,West Coast,4263 West Coast,5534,7 Remote,5534,426
+158,4311,Comox,4311 Comox,21744,3 Medium Urban,21744,431
+159,4312,Comox Valley Rural,4312 Comox Valley Rural,19623,6 Rural,19623,431
+160,4321,Campbell River,4321 Campbell River,33465,3 Medium Urban,33465,432
+161,4342,Port McNeill/Sointula,4342 Port McNeill/Sointula,3021,5 Rural Hub,3021,434
+162,5101,Haida Gwaii South,5101 Haida Gwaii South,2323,7 Remote,2323,510
+163,5102,Haida Gwaii North,5102 Haida Gwaii North,1875,7 Remote,1875,510
+164,5121,Prince Rupert City Centre,5121 Prince Rupert City Centre,12220,4 Small Urban,12220,512
+165,5130,Upper Skeena,5130 Upper Skeena,4223,7 Remote,4223,513
+166,5141,Smithers Town Centre,5141 Smithers Town Centre,6182,5 Rural Hub,6182,514
+167,5142,Smithers Rural,5142 Smithers Rural,6786,6 Rural,6786,514
+168,5143,Houston,5143 Houston,3446,5 Rural Hub,3446,514
+169,5150,Kitimat,5150 Kitimat,9090,5 Rural Hub,9090,515
+170,5160,Stikine,5160 Stikine,1033,7 Remote,1033,516
+171,5171,Terrace City Centre,5171 Terrace City Centre,11977,4 Small Urban,11977,517
+172,5172,Terrace Rural,5172 Terrace Rural,8273,6 Rural,8273,517
+173,5190,Telegraph Creek,5190 Telegraph Creek,595,7 Remote,595,519
+174,5211,Quesnel City Centre,5211 Quesnel City Centre,9987,4 Small Urban,9987,521
+175,5212,Quesnel Rural,5212 Quesnel Rural,13218,6 Rural,13218,521
+176,5221,Burns Lake Town Centre,5221 Burns Lake Town Centre,2065,5 Rural Hub,2065,522
+177,5222,Burns Lake South,5222 Burns Lake South,1740,7 Remote,1740,522
+178,5223,Burns Lake North,5223 Burns Lake North,2451,6 Rural,2451,522
+179,5231,Vanderhoof,5231 Vanderhoof,4439,6 Rural,4439,523
+180,5232,Vanderhoof Rural,5232 Vanderhoof Rural,3996,6 Rural,3996,523
+181,5233,Fort St. James North,5233 Fort St. James North,4558,6 Rural,4558,523
+182,5234,Fraser Lake,5234 Fraser Lake,2864,6 Rural,2864,523
+183,5241,Prince George City - North,5241 Prince George City - North,16947,3 Medium Urban,16947,524
+184,5242,Prince George City - Central,5242 Prince George City - Central,41431,3 Medium Urban,41431,524
+185,5243,Prince George City - Southwest,5243 Prince George City - Southwest,15730,3 Medium Urban,15730,524
+186,5246,McBride/Valemount,5246 McBride/Valemount,3223,7 Remote,3223,524
+187,5245,Prince George North Fraser Rural,5245 Prince George North Fraser Rural,5486,6 Rural,5486,524
+188,5244,Prince George Southwest Rural,5244 Prince George Southwest Rural,7847,6 Rural,7847,524
+189,5311,Dawson Creek,5311 Dawson Creek,12198,4 Small Urban,12198,531
+190,5312,Chetwynd,5312 Chetwynd,2503,6 Rural,2503,531
+191,5313,Tumbler Ridge,5313 Tumbler Ridge,1987,5 Rural Hub,1987,531
+192,5314,Peace River South Rural,5314 Peace River South Rural,10162,6 Rural,10162,531
+193,5321,Fort St John,5321 Fort St John,20155,4 Small Urban,20155,532
+194,5322,Hudson's Hope,5322 Hudson's Hope,1015,6 Rural,1015,532
+195,5323,Peace River North Rural,5323 Peace River North Rural,14351,6 Rural,14351,532
+196,5331,Fort Nelson Population Centre,5331 Fort Nelson Population Centre,3796,5 Rural Hub,3796,533
+197,5332,Northern Boreal,5332 Northern Boreal,1718,7 Remote,1718,533
+198,4330,Vancouver Island West,4330 Vancouver Island West,1901,6 Rural,1901,433
+199,3114,Thompson/Seafair,3114 Thompson/Seafair,32171,1 Metropolitan,32171,311
+200,2322,Ladner,2322 Ladner,24822,4 Small Urban,24822,232
+201,2312,Walnut Grove/Fort Langley,2312 Walnut Grove/Fort Langley,29587,1 Metropolitan,29587,231
+202,2141,South Mission,2141 South Mission,26303,3 Medium Urban,26303,214
+203,4232,Ladysmith Rural,4232 Ladysmith Rural,3676,6 Rural,3676,423
+204,4341,Port Hardy/Port Alice,4341 Port Hardy/Port Alice,6456,5 Rural Hub,6456,434
+205,5110,Snow Country,5110 Snow Country,421,7 Remote,421,511
+206,2331,Whalley,2331 Whalley,53402,1 Metropolitan,53402,233
+207,2243,Southeast Coquitlam,2243 Southeast Coquitlam,28129,1 Metropolitan,28129,224
+208,3117,Gilmore/Shellmont/East/Hamilton,3117 Gilmore/Shellmont/East/Hamilton,20949,1 Metropolitan,20949,311
+209,4313,Courtenay,4313 Courtenay,25160,3 Medium Urban,25160,431
+210,1461,West Cariboo,1461 West Cariboo,2650,7 Remote,2650,146
+211,3322,West Vancouver - Upper,3322 West Vancouver - Upper,25992,1 Metropolitan,25992,332
+212,4343,Vancouver Island North Remote,4343 Vancouver Island North Remote,1758,7 Remote,1758,434
+213,5180,Nisga'a,5180 Nisga'a,1880,7 Remote,1880,518
+214,5247,Mackenzie,5247 Mackenzie,4413,5 Rural Hub,4413,524
+215,4231,Ladysmith,4231 Ladysmith,8557,4 Small Urban,8557,423
+216,3333,Sunshine Coast Rural,3333 Sunshine Coast Rural,10839,6 Rural,10839,333
+217,5122,Prince Rupert Rural,5122 Prince Rupert Rural,1281,7 Remote,1281,512
+218,4322,Campbell River Rural,4322 Campbell River Rural,9105,6 Rural,9105,432

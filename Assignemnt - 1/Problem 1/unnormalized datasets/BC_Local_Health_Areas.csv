@@ -1,0 +1,90 @@
+﻿FID,LHA_CD,LHA_Name,LHA_Title,LHA_CD1997,HSDA_CD,HSDA_ID,HSDA_Name,HSDA_Title,HA_CD,HA_ID,HA_Name,HA_Title,LHA_Pop16,LHA_Area,Latitude,Longitude,Shape__Area,Shape__Length
+1,111,Fernie,111 Fernie,1,11,11 EK,East Kootenay,11 East Kootenay,1,1 IHA,Interior,1 Interior,15531,8043.8,49.511965,-114.946559,19065095661,1057610.38
+2,112,Cranbrook,112 Cranbrook,2,11,11 EK,East Kootenay,11 East Kootenay,1,1 IHA,Interior,1 Interior,26248,4473.71,49.513397,-115.597625,10602419936,752612.4112
+3,113,Kimberley,113 Kimberley,3,11,11 EK,East Kootenay,11 East Kootenay,1,1 IHA,Interior,1 Interior,9178,4345.66,49.804307,-116.055836,10421294217,675573.421
+4,114,Windermere,114 Windermere,4,11,11 EK,East Kootenay,11 East Kootenay,1,1 IHA,Interior,1 Interior,9487,10980.52,50.534955,-115.965026,27148198323,1131209.462
+5,115,Creston,115 Creston,5,11,11 EK,East Kootenay,11 East Kootenay,1,1 IHA,Interior,1 Interior,12634,3793.89,49.247658,-116.571432,8894436701,500296.5628
+6,116,Golden,116 Golden,18,11,11 EK,East Kootenay,11 East Kootenay,1,1 IHA,Interior,1 Interior,6851,13347.11,51.60957,-117.318897,34561924209,1335005.009
+7,121,Kootenay Lake,121 Kootenay Lake,6,12,12 KB,Kootenay Boundary,12 Kootenay Boundary,1,1 IHA,Interior,1 Interior,3209,6543.23,50.29662,-116.964848,16017767692,955782.6291
+8,122,Nelson,122 Nelson,7,12,12 KB,Kootenay Boundary,12 Kootenay Boundary,1,1 IHA,Interior,1 Interior,25523,4809.42,49.522782,-117.326334,11389351229,672090.004
+9,123,Castlegar,123 Castlegar,9,12,12 KB,Kootenay Boundary,12 Kootenay Boundary,1,1 IHA,Interior,1 Interior,13710,1942.58,49.398678,-117.914255,4587578619,442602.4329
+10,124,Arrow Lakes,124 Arrow Lakes,10,12,12 KB,Kootenay Boundary,12 Kootenay Boundary,1,1 IHA,Interior,1 Interior,4501,7391.98,50.241121,-117.783158,18051527985,959405.6889
+11,125,Trail,125 Trail,11,12,12 KB,Kootenay Boundary,12 Kootenay Boundary,1,1 IHA,Interior,1 Interior,19367,1131.23,49.124559,-117.809889,2641968183,251278.9552
+12,126,Grand Forks,126 Grand Forks,12,12,12 KB,Kootenay Boundary,12 Kootenay Boundary,1,1 IHA,Interior,1 Interior,8611,2691.95,49.34925,-118.401057,6337245332,479750.1328
+13,127,Kettle Valley,127 Kettle Valley,13,12,12 KB,Kootenay Boundary,12 Kootenay Boundary,1,1 IHA,Interior,1 Interior,3469,4347.28,49.413808,-118.944075,10260455230,562476.9987
+14,131,Southern Okanagan,131 Southern Okanagan,14,13,13 OK,Okanagan,13 Okanagan,1,1 IHA,Interior,1 Interior,19231,1304.34,49.20982,-119.448355,3053234225,264979.9484
+15,132,Penticton,132 Penticton,15,13,13 OK,Okanagan,13 Okanagan,1,1 IHA,Interior,1 Interior,41799,1562.86,49.541901,-119.525423,3708951672,390674.6515
+16,133,Keremeos,133 Keremeos,16,13,13 OK,Okanagan,13 Okanagan,1,1 IHA,Interior,1 Interior,5101,2479.93,49.222987,-120.03667,5813843181,454423.5768
+17,134,Princeton,134 Princeton,17,13,13 OK,Okanagan,13 Okanagan,1,1 IHA,Interior,1 Interior,4781,4826.04,49.465568,-120.567596,11414845339,719167.9246
+18,135,Armstrong/Spallumcheen,135 Armstrong/Spallumcheen,21,13,13 OK,Okanagan,13 Okanagan,1,1 IHA,Interior,1 Interior,10220,263.75,50.445902,-119.212326,649570853.3,154408.7995
+19,136,Vernon,136 Vernon,22,13,13 OK,Okanagan,13 Okanagan,1,1 IHA,Interior,1 Interior,66849,5585.52,50.260526,-118.770375,13651693128,951926.0598
+20,137,Central Okanagan,137 Central Okanagan,23,13,13 OK,Okanagan,13 Okanagan,1,1 IHA,Interior,1 Interior,194882,2910.76,49.964429,-119.467316,7026299092,542656.6134
+21,138,Summerland,138 Summerland,77,13,13 OK,Okanagan,13 Okanagan,1,1 IHA,Interior,1 Interior,12110,615.74,49.629565,-119.852005,1466250724,196597.3875
+22,139,Enderby,139 Enderby,78,13,13 OK,Okanagan,13 Okanagan,1,1 IHA,Interior,1 Interior,7285,1865.96,50.669583,-118.766761,4639201927,406896.7823
+23,141,Revelstoke,141 Revelstoke,19,14,14 TC,Thompson Cariboo Shuswap,14 Thompson Cariboo Shuswap,1,1 IHA,Interior,1 Interior,8085,9320.32,51.389437,-118.206429,23905589648,1063477.779
+24,142,Salmon Arm,142 Salmon Arm,20,14,14 TC,Thompson Cariboo Shuswap,14 Thompson Cariboo Shuswap,1,1 IHA,Interior,1 Interior,33648,3155.97,50.842622,-119.030894,7904718197,681680.5225
+25,143,Kamloops,143 Kamloops,24,14,14 TC,Thompson Cariboo Shuswap,14 Thompson Cariboo Shuswap,1,1 IHA,Interior,1 Interior,113287,16504.73,51.026278,-119.971276,41668573896,1299031.863
+26,144,100 Mile House,144 100 Mile House,25,14,14 TC,Thompson Cariboo Shuswap,14 Thompson Cariboo Shuswap,1,1 IHA,Interior,1 Interior,14112,10958.62,51.630916,-121.242638,28375283967,847261.1459
+27,145,North Thompson,145 North Thompson,26,14,14 TC,Thompson Cariboo Shuswap,14 Thompson Cariboo Shuswap,1,1 IHA,Interior,1 Interior,4050,12521.05,52.133973,-119.682727,33183315925,1177509.18
+28,146,Cariboo/Chilcotin,146 Cariboo/Chilcotin,27,14,14 TC,Thompson Cariboo Shuswap,14 Thompson Cariboo Shuswap,1,1 IHA,Interior,1 Interior,24815,44398.05,51.928459,-122.991526,1.17143E+11,2581278.521
+29,147,Lillooet,147 Lillooet,29,14,14 TC,Thompson Cariboo Shuswap,14 Thompson Cariboo Shuswap,1,1 IHA,Interior,1 Interior,4012,7422.41,50.850142,-122.442673,18556882351,1011605.577
+30,148,South Cariboo,148 South Cariboo,30,14,14 TC,Thompson Cariboo Shuswap,14 Thompson Cariboo Shuswap,1,1 IHA,Interior,1 Interior,6548,9317.38,50.672256,-121.498826,23169755590,1372929.054
+31,149,Merritt,149 Merritt,31,14,14 TC,Thompson Cariboo Shuswap,14 Thompson Cariboo Shuswap,1,1 IHA,Interior,1 Interior,10855,6557.64,50.083169,-120.549031,15907532327,851085.8401
+32,211,Hope,211 Hope,32,21,21 FE,Fraser East,21 Fraser East,2,2 FHA,Fraser,2 Fraser,8129,5292.47,49.57816,-121.448132,12576500307,960566.9711
+33,212,Chilliwack,212 Chilliwack,33,21,21 FE,Fraser East,21 Fraser East,2,2 FHA,Fraser,2 Fraser,93177,1308.54,49.112956,-121.713962,3051321816,301492.8103
+34,213,Abbotsford,213 Abbotsford,34,21,21 FE,Fraser East,21 Fraser East,2,2 FHA,Fraser,2 Fraser,141685,411.85,49.070757,-122.275943,958753703.7,145941.6472
+35,214,Mission,214 Mission,75,21,21 FE,Fraser East,21 Fraser East,2,2 FHA,Fraser,2 Fraser,43157,1454.61,49.397045,-122.27416,3430609004,419807.1911
+36,215,Agassiz/Harrison,215 Agassiz/Harrison,76,21,21 FE,Fraser East,21 Fraser East,2,2 FHA,Fraser,2 Fraser,9696,4111.86,49.700903,-122.051909,9818252211,748117.3423
+37,221,New Westminster,221 New Westminster,40,22,22 FN,Fraser North,22 Fraser North,2,2 FHA,Fraser,2 Fraser,70996,18.59,49.214744,-122.914242,43520225.75,33330.84704
+38,222,Burnaby,222 Burnaby,41,22,22 FN,Fraser North,22 Fraser North,2,2 FHA,Fraser,2 Fraser,232755,91.96,49.246043,-122.965057,215572983.4,63584.98997
+39,223,Maple Ridge/Pitt Meadows,223 Maple Ridge/Pitt Meadows,42,22,22 FN,Fraser North,22 Fraser North,2,2 FHA,Fraser,2 Fraser,101101,1460.48,49.501392,-122.503036,3468497265,492067.5728
+40,224,Tri-Cities,224 Tri-Cities,43,22,22 FN,Fraser North,22 Fraser North,2,2 FHA,Fraser,2 Fraser,234393,745.79,49.413814,-122.754354,1760033950,239647.6121
+41,231,Langley,231 Langley,35,23,23 FS,Fraser South,23 Fraser South,2,2 FHA,Fraser,2 Fraser,143778,327.36,49.092075,-122.574861,762737249.7,113996.0275
+42,232,Delta,232 Delta,37,23,23 FS,Fraser South,23 Fraser South,2,2 FHA,Fraser,2 Fraser,103064,199.97,49.100265,-123.009937,465990324.4,168209.388
+43,233,Surrey,233 Surrey,201,23,23 FS,Fraser South,23 Fraser South,2,2 FHA,Fraser,2 Fraser,443367,252.39,49.139982,-122.789314,589214893.8,114153.0991
+44,234,South Surrey/White Rock,234 South Surrey/White Rock,202,23,23 FS,Fraser South,23 Fraser South,2,2 FHA,Fraser,2 Fraser,94768,86.39,49.039259,-122.768501,200849328.6,74606.87304
+45,311,Richmond,311 Richmond,38,31,31 RICH,Richmond,31 Richmond,3,3 VCHA,Vancouver Coastal,3 Vancouver Coastal,198309,151.73,49.169051,-123.109939,354467661.7,132834.6849
+46,321,Vancouver - City Centre,321 Vancouver - City Centre,161,32,32 VAN,Vancouver,32 Vancouver,3,3 VCHA,Vancouver Coastal,3 Vancouver Coastal,122041,11.59,49.28472,-123.134257,27205054.21,48097.85048
+47,322,Vancouver - Centre North,322 Vancouver - Centre North,162,32,32 VAN,Vancouver,32 Vancouver,3,3 VCHA,Vancouver Coastal,3 Vancouver Coastal,61532,8.99,49.277527,-123.080567,21092341.55,38377.546
+48,323,Vancouver - Northeast,323 Vancouver - Northeast,163,32,32 VAN,Vancouver,32 Vancouver,3,3 VCHA,Vancouver Coastal,3 Vancouver Coastal,103894,19.1,49.259572,-123.046846,44794484.7,36730.89409
+49,324,Vancouver - Westside,324 Vancouver - Westside,164,32,32 VAN,Vancouver,32 Vancouver,3,3 VCHA,Vancouver Coastal,3 Vancouver Coastal,131178,48.37,49.249768,-123.189329,113413387.4,55585.2168
+50,325,Vancouver - Midtown,325 Vancouver - Midtown,165,32,32 VAN,Vancouver,32 Vancouver,3,3 VCHA,Vancouver Coastal,3 Vancouver Coastal,95808,15.87,49.249534,-123.096879,37217339.27,29969.61134
+51,326,Vancouver - South,326 Vancouver - South,166,32,32 VAN,Vancouver,32 Vancouver,3,3 VCHA,Vancouver Coastal,3 Vancouver Coastal,134575,28.74,49.218489,-123.085391,67306746.52,40185.18047
+52,331,North Vancouver,331 North Vancouver,44,33,33 NSCG,North Shore/Coast Garibaldi,33 North Shore/Coast Garibaldi,3,3 VCHA,Vancouver Coastal,3 Vancouver Coastal,141392,416.8,49.426299,-123.003865,984123735.8,175663.633
+53,332,West Vancouver/Bowen Island,332 West Vancouver/Bowen Island,45,33,33 NSCG,North Shore/Coast Garibaldi,33 North Shore/Coast Garibaldi,3,3 VCHA,Vancouver Coastal,3 Vancouver Coastal,50490,221.52,49.394595,-123.214192,522458191.6,194190.2279
+54,333,Sunshine Coast,333 Sunshine Coast,46,33,33 NSCG,North Shore/Coast Garibaldi,33 North Shore/Coast Garibaldi,3,3 VCHA,Vancouver Coastal,3 Vancouver Coastal,29970,3823.41,49.852765,-123.752244,9182768865,1833263.041
+55,334,Powell River,334 Powell River,47,33,33 NSCG,North Shore/Coast Garibaldi,33 North Shore/Coast Garibaldi,3,3 VCHA,Vancouver Coastal,3 Vancouver Coastal,19671,5225.38,50.310705,-124.293071,12777193352,1445364.699
+56,335,Howe Sound,335 Howe Sound,48,33,33 NSCG,North Shore/Coast Garibaldi,33 North Shore/Coast Garibaldi,3,3 VCHA,Vancouver Coastal,3 Vancouver Coastal,38653,9202.02,50.248296,-123.148309,22479194084,1291673.79
+57,336,Bella Coola Valley,336 Bella Coola Valley,49,33,33 NSCG,North Shore/Coast Garibaldi,33 North Shore/Coast Garibaldi,3,3 VCHA,Vancouver Coastal,3 Vancouver Coastal,2678,25204.55,52.352284,-126.307079,67443503486,3000329.686
+58,337,Central Coast,337 Central Coast,83,33,33 NSCG,North Shore/Coast Garibaldi,33 North Shore/Coast Garibaldi,3,3 VCHA,Vancouver Coastal,3 Vancouver Coastal,1514,10712.99,51.992569,-128.048735,28450343223,10668351.87
+59,411,Greater Victoria,411 Greater Victoria,61,41,41 SVI,South Vancouver Island,41 South Vancouver Island,4,4 VIHA,Vancouver Island,4 Vancouver Island,225919,112.09,48.459503,-123.378963,254678258.2,215883.1157
+60,412,Western Communities,412 Western Communities,62,41,41 SVI,South Vancouver Island,41 South Vancouver Island,4,4 VIHA,Vancouver Island,4 Vancouver Island,77460,1742.98,48.516715,-123.946477,3969097531,626281.025
+61,413,Saanich Peninsula,413 Saanich Peninsula,63,41,41 SVI,South Vancouver Island,41 South Vancouver Island,4,4 VIHA,Vancouver Island,4 Vancouver Island,64692,138.74,48.584791,-123.421546,316796449,143206.7655
+62,414,Southern Gulf Islands,414 Southern Gulf Islands,64,41,41 SVI,South Vancouver Island,41 South Vancouver Island,4,4 VIHA,Vancouver Island,4 Vancouver Island,15289,376.7,48.797096,-123.437756,868053532,887232.9713
+63,421,Cowichan Valley South,421 Cowichan Valley South,65,42,42 CVI,Central Vancouver Island,42 Central Vancouver Island,4,4 VIHA,Vancouver Island,4 Vancouver Island,58378,743.34,48.720179,-123.70623,1706391088,332972.4637
+64,422,Cowichan Valley West,422 Cowichan Valley West,66,42,42 CVI,Central Vancouver Island,42 Central Vancouver Island,4,4 VIHA,Vancouver Island,4 Vancouver Island,6240,2378.13,48.823213,-124.337145,5476514494,593684.9153
+65,423,Cowichan Valley North,423 Cowichan Valley North,67,42,42 CVI,Central Vancouver Island,42 Central Vancouver Island,4,4 VIHA,Vancouver Island,4 Vancouver Island,19121,437.72,48.975374,-123.964708,1015268708,543912.0181
+66,424,Greater Nanaimo,424 Greater Nanaimo,68,42,42 CVI,Central Vancouver Island,42 Central Vancouver Island,4,4 VIHA,Vancouver Island,4 Vancouver Island,108964,1312.01,49.123119,-124.231822,3060691386,749192.5785
+67,425,Oceanside,425 Oceanside,69,42,42 CVI,Central Vancouver Island,42 Central Vancouver Island,4,4 VIHA,Vancouver Island,4 Vancouver Island,47133,846.05,49.309696,-124.519442,1989614400,697623.243
+68,426,Alberni/Clayoquot,426 Alberni/Clayoquot,70,42,42 CVI,Central Vancouver Island,42 Central Vancouver Island,4,4 VIHA,Vancouver Island,4 Vancouver Island,30981,6880.74,49.215133,-125.35925,16110258807,3363056.93
+69,431,Comox Valley,431 Comox Valley,71,43,43 NVI,North Vancouver Island,43 North Vancouver Island,4,4 VIHA,Vancouver Island,4 Vancouver Island,66527,1746.12,49.668731,-125.156887,4163110986,561321.0947
+70,432,Greater Campbell River,432 Greater Campbell River,72,43,43 NVI,North Vancouver Island,43 North Vancouver Island,4,4 VIHA,Vancouver Island,4 Vancouver Island,42570,13326.94,50.60531,-125.078334,32941179846,4549593.648
+71,433,Vancouver Island West,433 Vancouver Island West,84,43,43 NVI,North Vancouver Island,43 North Vancouver Island,4,4 VIHA,Vancouver Island,4 Vancouver Island,1901,5144.09,49.896042,-126.870457,12385216212,2970291.583
+72,434,Vancouver Island North,434 Vancouver Island North,85,43,43 NVI,North Vancouver Island,43 North Vancouver Island,4,4 VIHA,Vancouver Island,4 Vancouver Island,11235,20768.09,51.027922,-126.403996,52163594215,8782651.799
+73,510,Haida Gwaii,510 Haida Gwaii,50,51,51 NW,Northwest,51 Northwest,5,5 NHA,Northern,5 Northern,4198,10043.05,53.097381,-132.109916,28186495344,6484937.721
+74,511,Snow Country,511 Snow Country,51,51,51 NW,Northwest,51 Northwest,5,5 NHA,Northern,5 Northern,421,27578.58,56.351874,-129.669677,89433331220,3074750.208
+75,512,Prince Rupert,512 Prince Rupert,52,51,51 NW,Northwest,51 Northwest,5,5 NHA,Northern,5 Northern,13501,6167.38,54.217641,-129.788302,18024757116,3357602.406
+76,513,Upper Skeena,513 Upper Skeena,53,51,51 NW,Northwest,51 Northwest,5,5 NHA,Northern,5 Northern,4223,4461.98,55.290582,-127.489005,13729752310,677266.5667
+77,514,Smithers,514 Smithers,54,51,51 NW,Northwest,51 Northwest,5,5 NHA,Northern,5 Northern,16414,9943.43,54.496321,-127.133022,29273244852,1180519.415
+78,515,Kitimat,515 Kitimat,80,51,51 NW,Northwest,51 Northwest,5,5 NHA,Northern,5 Northern,9090,19598.68,53.398844,-128.64864,55243138777,8572711.758
+79,516,Stikine,516 Stikine,87,51,51 NW,Northwest,51 Northwest,5,5 NHA,Northern,5 Northern,1033,132240.59,58.594773,-129.960236,4.87589E+11,6652227.534
+80,517,Terrace,517 Terrace,88,51,51 NW,Northwest,51 Northwest,5,5 NHA,Northern,5 Northern,20250,13227.6,54.747105,-128.554275,39626026922,1352464.358
+81,518,Nisga'a,518 Nisga'a,92,51,51 NW,Northwest,51 Northwest,5,5 NHA,Northern,5 Northern,1880,5037.07,55.166564,-129.394876,15404507346,921754.2971
+82,519,Telegraph Creek,519 Telegraph Creek,94,51,51 NW,Northwest,51 Northwest,5,5 NHA,Northern,5 Northern,595,23942.51,57.520185,-130.77409,82777641319,1324428.841
+83,521,Quesnel,521 Quesnel,28,52,52 NI,Northern Interior,52 Northern Interior,5,5 NHA,Northern,5 Northern,23205,23725.69,53.005114,-122.817823,65398411665,1826641.59
+84,522,Burns Lake,522 Burns Lake,55,52,52 NI,Northern Interior,52 Northern Interior,5,5 NHA,Northern,5 Northern,6256,25823.99,53.777568,-125.986874,74043659055,1847292.636
+85,523,Nechako,523 Nechako,56,52,52 NI,Northern Interior,52 Northern Interior,5,5 NHA,Northern,5 Northern,15857,42545.09,54.980435,-125.172061,1.29026E+11,2882175.772
+86,524,Prince George,524 Prince George,57,52,52 NI,Northern Interior,52 Northern Interior,5,5 NHA,Northern,5 Northern,95077,76102.62,54.740236,-122.738472,2.30799E+11,5649999.479
+87,531,Peace River South,531 Peace River South,59,53,53 NE,Northeast,53 Northeast,5,5 NHA,Northern,5 Northern,26850,27812.26,55.348564,-121.178108,85835868888,1662274.122
+88,532,Peace River North,532 Peace River North,60,53,53 NE,Northeast,53 Northeast,5,5 NHA,Northern,5 Northern,35521,67950.18,57.074568,-122.616888,2.2947E+11,2208553.539
+89,533,Fort Nelson,533 Fort Nelson,81,53,53 NE,Northeast,53 Northeast,5,5 NHA,Northern,5 Northern,5514,89375.33,59.107372,-123.592863,3.37944E+11,3029195.251

@@ -1,0 +1,85 @@
+TF-IDF (Term Frequency - Inverse Document Frequency
+===================================================
+Total Document: 652
+Search Query   df        N/df                          Log10(N/df)         
+condition      5         652/5=130.4                   2.1152775913959014  
+weather        4         652/4=163.0                   2.2121876044039577  
+people         24        652/24=27.166666666666668     1.4340363540203143  
+
+
+Calculation of term people
+==========================
+Term: people
+people appeared in 24 documents         Total Words(m)      Frequency(f)        
+Article: #30                            31                  1                   
+Article: #42                            30                  1                   
+Article: #122                           34                  1                   
+Article: #158                           36                  1                   
+Article: #244                           32                  1                   
+Article: #296                           30                  1                   
+Article: #352                           30                  1                   
+Article: #364                           28                  1                   
+Article: #365                           35                  1                   
+Article: #378                           31                  1                   
+Article: #380                           35                  1                   
+Article: #413                           31                  1                   
+Article: #421                           34                  1                   
+Article: #473                           32                  1                   
+Article: #481                           32                  1                   
+Article: #495                           32                  1                   
+Article: #513                           28                  1                   
+Article: #525                           37                  1                   
+Article: #532                           32                  1                   
+Article: #533                           32                  1                   
+Article: #568                           32                  1                   
+Article: #575                           37                  1                   
+Article: #642                           34                  1                   
+Article: #648                           30                  1                   
+
+
+News article with highest relative frequency
+============================================
+Content: A second plane carrying Ukrainian refugees fleeing war has arrived in Newfoundland and Labrador.The flight chartered by the provincial government andcarrying 177 people and their pets landed Tu
+f/m: 0.035714287TF-IDF (Term Frequency - Inverse Document Frequency
+===================================================
+Total Document: 652
+Search Query   df        N/df                          Log10(N/df)         
+condition      5         652/5=130.4                   2.1152775913959014  
+weather        4         652/4=163.0                   2.2121876044039577  
+people         24        652/24=27.166666666666668     1.4340363540203143  
+
+
+Calculation of term people
+==========================
+Term: people
+people appeared in 24 documents         Total Words(m)      Frequency(f)        
+Article: #30                            31                  1                   
+Article: #42                            30                  1                   
+Article: #122                           34                  1                   
+Article: #158                           36                  1                   
+Article: #244                           32                  1                   
+Article: #296                           30                  1                   
+Article: #352                           30                  1                   
+Article: #364                           28                  1                   
+Article: #365                           35                  1                   
+Article: #378                           31                  1                   
+Article: #380                           35                  1                   
+Article: #413                           31                  1                   
+Article: #421                           34                  1                   
+Article: #473                           32                  1                   
+Article: #481                           32                  1                   
+Article: #495                           32                  1                   
+Article: #513                           28                  1                   
+Article: #525                           37                  1                   
+Article: #532                           32                  1                   
+Article: #533                           32                  1                   
+Article: #568                           32                  1                   
+Article: #575                           37                  1                   
+Article: #642                           34                  1                   
+Article: #648                           30                  1                   
+
+
+News article with highest relative frequency
+============================================
+Content: A second plane carrying Ukrainian refugees fleeing war has arrived in Newfoundland and Labrador.The flight chartered by the provincial government andcarrying 177 people and their pets landed Tu
+f/m: 0.035714287
